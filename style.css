@@ -58,3 +58,16 @@ h1{
 .button:hover {
     background-color: #5a67d8;
 }
+
+
+/* Styling for Amanda's profile card*/
+.profile-card-amanda{
+    border-radius:5vmax;
+    padding:1rem;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2)
+}
+
+.profile-card-amanda img{
+    width: 100%;
+     border-radius:5vmax;
+}
